@@ -1,15 +1,7 @@
-### Date created
-Include the date you created this project and README file.
+This project was created in May 2020 during the COVID pandemic
 
-### Project Title
-Replace the Project Title
+Bikeshare data analysis
 
-### Description
-Describe what your project is about and what it does
+I studied a number of statistics in order to better understand the behaviour of bike sharers 
 
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I did a lot of googling to answer most of the questions in this project
