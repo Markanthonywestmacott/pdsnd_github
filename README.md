@@ -1,9 +1,14 @@
-This project was created in May 2020 during the COVID pandemic
+Date created
+May 2018
 
-Bikeshare data analysis
+Project Title
+Bike share US
 
-I studied a number of statistics in order to better understand the behaviour of bike sharers 
+Description
+Analysis of the behaviour of bikeshare services in the US
 
-I did a lot of googling to answer most of the questions in this project
+Files used
+None specifically other than the database provided by udacity
 
-It's been a ride! I learned a lot
+Credits
+I did a lot of googling in general on how to write teh code necessary to perform different actions
